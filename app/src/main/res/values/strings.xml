@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">360InstallToListener</string>
+    <string name="tip">点我试试看：
+        NDK项目实战—高仿360手机助手之卸载监听</string>
+</resources>
